@@ -28,7 +28,7 @@
 <img height='170em' src="https://github-readme-stats.vercel.app/api?username=GabriellaAM&show_icons=true&theme=synthwave" />
 </p>
 
-## Fale comigo
+## Meios de contato
 <br />
 <a href="https://www.linkedin.com/in/gabriella-araujomelo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
