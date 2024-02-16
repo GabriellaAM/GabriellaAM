@@ -8,6 +8,8 @@
 ## Destaques
 <br />
 <a href="https://github.com/GabriellaAM/Faq-Accordion"><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellaAM&repo=Faq-Accordion&theme=synthwave" /></a>
+&nbsp;
+<a href="https://github.com/GabriellaAM/TipCalculator"><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellaAM&repo=TipCalculator&theme=synthwave" /></a>
 
 ## Skills
 <br />
