@@ -7,9 +7,9 @@
 
 ## Destaques
 <br />
-<a href="https://github.com/GabriellaAM/AgeCalculatorApp"><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellaAM&repo=AgeCalculatorApp&theme=synthwave" /></a>
+<a href="https://github.com/GabriellaAM/AgeCalculatorApp"><img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GabriellaAM&repo=AgeCalculatorApp&theme=synthwave" /></a>
 &nbsp;
-<a href="https://github.com/GabriellaAM/TipCalculator"><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabriellaAM&repo=TipCalculator&theme=synthwave" /></a>
+<a href="https://github.com/GabriellaAM/TipCalculator"><img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GabriellaAM&repo=TipCalculator&theme=synthwave" /></a>
 
 ## Skills
 <br />
@@ -24,10 +24,10 @@
 ##
 <br />
 <p>
-<img height='170em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellaAM&layout=compact&theme=synthwave" />
+<img height='170em' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabriellaAM&layout=compact&theme=synthwave" />
 &nbsp;
 &nbsp;
-<img height='170em' src="https://github-readme-stats.vercel.app/api?username=GabriellaAM&show_icons=true&theme=synthwave" />
+<img height='170em' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabriellaAM&show_icons=true&theme=synthwave" />
 </p>
 
 ## Meios de contato
