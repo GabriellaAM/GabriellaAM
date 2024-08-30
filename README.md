@@ -30,6 +30,12 @@
 <img height='170em' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabriellaAM&show_icons=true&theme=synthwave" />
 </p>
 
+## Projetos em desenvolvimento
+<br />
+<a href="https://github.com/GabriellaAM/Bauci-Web"><img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GabriellaAM&repo=Bauci-Web&theme=synthwave" /></a>
+&nbsp;
+<a href="https://github.com/GabriellaAM/CashTrack"><img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GabriellaAM&repo=CashTrack&theme=synthwave" /></a>
+
 ## Meios de contato
 <br />
 <a href="https://www.linkedin.com/in/gabriella-araujomelo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
