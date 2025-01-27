@@ -19,6 +19,10 @@
 <a href="https://sass-lang.com/documentation/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
 &nbsp;
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+&nbsp;
+<a href="https://pt-br.react.dev/"><img src="https://img.shields.io/badge/React-01d0f7?style=for-the-badge&logo=react&logoColor=white" /></a>
+&nbsp;
+<a href="https://nodejs.org/docs/latest/api/"><img src="https://img.shields.io/badge/node.js-56b261?style=for-the-badge&logo=node.js&logoColor=white" /></a>
 
 ##
 <br />
