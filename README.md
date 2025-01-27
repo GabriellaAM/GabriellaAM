@@ -23,6 +23,10 @@
 <a href="https://pt-br.react.dev/"><img src="https://img.shields.io/badge/React-01d0f7?style=for-the-badge&logo=react&logoColor=white" /></a>
 &nbsp;
 <a href="https://nodejs.org/docs/latest/api/"><img src="https://img.shields.io/badge/node.js-56b261?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-A25AFF?style=for-the-badge&logo=figma&logoColor=white" /></a>
+&nbsp;
+<a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
 
 ##
 <br />
