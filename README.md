@@ -2,12 +2,6 @@
 
 I'm Gabriella Melo!
 
-## Destaques
-<br />
-<a href="https://github.com/GabriellaAM/AgeCalculatorApp"><img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GabriellaAM&repo=AgeCalculatorApp&theme=synthwave" /></a>
-&nbsp;
-<a href="https://github.com/GabriellaAM/TipCalculator"><img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GabriellaAM&repo=TipCalculator&theme=synthwave" /></a>
-
 ## Skills
 <br />
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
@@ -25,15 +19,6 @@ I'm Gabriella Melo!
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-A25AFF?style=for-the-badge&logo=figma&logoColor=white" /></a>
 &nbsp;
 <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
-
-##
-<br />
-<p>
-<img height='170em' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabriellaAM&layout=compact&theme=synthwave" />
-&nbsp;
-&nbsp;
-<img height='170em' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabriellaAM&show_icons=true&theme=synthwave" />
-</p>
 
 ## Meios de contato
 <br />
