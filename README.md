@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Gabriella Melo!
+I'm Gabriella Melo!
 
 ## Destaques
 <br />
