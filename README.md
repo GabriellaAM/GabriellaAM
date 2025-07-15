@@ -2,8 +2,6 @@
 
 ### I'm Gabriella Melo!
 
-- I'm currently working on becoming a Software Developer 💻
-
 ## Destaques
 <br />
 <a href="https://github.com/GabriellaAM/AgeCalculatorApp"><img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GabriellaAM&repo=AgeCalculatorApp&theme=synthwave" /></a>
